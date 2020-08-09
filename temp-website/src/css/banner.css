@@ -1,0 +1,28 @@
+.banner {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-divider {
+  height: 70px;
+}
+
+.banner p,
+.banner h1 {
+  margin: 0px;
+  padding: 0px;
+  color: #ff0044;
+}
+
+.banner p {
+  color: #242424;
+  font-size: 30px;
+}
+
+.banner h1 {
+  font-size: 50px;
+}

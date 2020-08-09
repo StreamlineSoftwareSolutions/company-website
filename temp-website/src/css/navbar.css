@@ -1,0 +1,15 @@
+.nav {
+  width: 100vw;
+  height: 80px;
+  background-color: #ff0044;
+}
+
+.nav-logo {
+  width: 200px;
+  height: 100%;
+  margin-left: 20px;
+  background-image: url(/logo-pink.png);
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+}

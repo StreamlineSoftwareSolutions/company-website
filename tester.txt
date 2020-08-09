@@ -1,8 +1,0 @@
-Hi,
-
-This is a test file.
-
-Hopefully, this git stuff won't be the end of me.
-
-With love,
-Sam
