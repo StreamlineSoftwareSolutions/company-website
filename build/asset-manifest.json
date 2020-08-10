@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/company-website/static/css/main.0c0f9f8a.chunk.css",
-    "main.js": "/company-website/static/js/main.2b5b352c.chunk.js",
-    "main.js.map": "/company-website/static/js/main.2b5b352c.chunk.js.map",
-    "runtime-main.js": "/company-website/static/js/runtime-main.f15ed834.js",
-    "runtime-main.js.map": "/company-website/static/js/runtime-main.f15ed834.js.map",
-    "static/js/2.5c8c64f0.chunk.js": "/company-website/static/js/2.5c8c64f0.chunk.js",
-    "static/js/2.5c8c64f0.chunk.js.map": "/company-website/static/js/2.5c8c64f0.chunk.js.map",
-    "index.html": "/company-website/index.html",
-    "precache-manifest.d80c88b7f9ecbf02fb04cf8e6e45d6d9.js": "/company-website/precache-manifest.d80c88b7f9ecbf02fb04cf8e6e45d6d9.js",
-    "service-worker.js": "/company-website/service-worker.js",
-    "static/css/main.0c0f9f8a.chunk.css.map": "/company-website/static/css/main.0c0f9f8a.chunk.css.map",
-    "static/js/2.5c8c64f0.chunk.js.LICENSE.txt": "/company-website/static/js/2.5c8c64f0.chunk.js.LICENSE.txt",
-    "static/media/navbar.css": "/company-website/static/media/logo-pink.60ec37ff.png",
-    "static/media/logo.svg": "/company-website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.853fb149.chunk.css",
+    "main.js": "/static/js/main.89f591ee.chunk.js",
+    "main.js.map": "/static/js/main.89f591ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5fa361a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5fa361a.js.map",
+    "static/js/2.5c8c64f0.chunk.js": "/static/js/2.5c8c64f0.chunk.js",
+    "static/js/2.5c8c64f0.chunk.js.map": "/static/js/2.5c8c64f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e9290fe9fd4d6a66e56de35de0f2eea0.js": "/precache-manifest.e9290fe9fd4d6a66e56de35de0f2eea0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.853fb149.chunk.css.map": "/static/css/main.853fb149.chunk.css.map",
+    "static/js/2.5c8c64f0.chunk.js.LICENSE.txt": "/static/js/2.5c8c64f0.chunk.js.LICENSE.txt",
+    "static/media/navbar.css": "/static/media/logo-pink.60ec37ff.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f15ed834.js",
+    "static/js/runtime-main.b5fa361a.js",
     "static/js/2.5c8c64f0.chunk.js",
-    "static/css/main.0c0f9f8a.chunk.css",
-    "static/js/main.2b5b352c.chunk.js"
+    "static/css/main.853fb149.chunk.css",
+    "static/js/main.89f591ee.chunk.js"
   ]
 }
