@@ -9,6 +9,7 @@ function Banner() {
       <div className="banner-divider"></div>
       <p>This site is still under construction</p>
       <p>Check back later for updates</p>
+      <p>Another line</p>
     </div>
   );
 }
