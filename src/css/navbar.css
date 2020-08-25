@@ -1,7 +1,7 @@
 .nav {
   width: 100vw;
   height: 80px;
-  background-color: #ff0044;
+  background-color: rgb(36, 91, 148); /*rgb(37, 22, 164); #ff0044;*/
 }
 
 .nav-logo {
